@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 5000
 
-ENTRYPOINT ["python", "main.py"]
+ENTRYPOINT ["python", "app_poetry\main.py"]

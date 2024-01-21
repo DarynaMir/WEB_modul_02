@@ -1,0 +1,12 @@
+2024-01-19 17:29:05,219 [ERROR]             run - Please enter a valid action.
+ERROR:__main__:Please enter a valid action.
+2024-01-19 17:29:12,246 [ERROR] get_bot_instance - Incorrect action!
+ERROR:__main__:Incorrect action!
+2024-01-19 17:29:12,247 [ERROR]             run - Incorrect action!
+ERROR:__main__:Incorrect action!
+2024-01-20 00:01:09,537 [ERROR] get_bot_instance - Incorrect action!
+ERROR:__main__:Incorrect action!
+2024-01-20 00:01:09,538 [ERROR]             run - Incorrect action!
+ERROR:__main__:Incorrect action!
+2024-01-21 02:53:06,227 [WARNING] run - Please enter a valid action.
+WARNING:__main__:Please enter a valid action.

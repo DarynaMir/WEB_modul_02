@@ -1,0 +1,9 @@
+[00:01:16] Addressbook has been loaded!
+[00:22:58] Addressbook has been loaded!
+[02:37:40] Addressbook has been loaded!
+[02:38:10] Contact Dasha has been added.
+[02:38:10] Addressbook has been saved!
+[02:38:10] Addressbook has been saved!
+[02:38:14] Addressbook has been loaded!
+[02:38:26] Addressbook has been loaded!
+[02:53:10] Addressbook has been loaded!

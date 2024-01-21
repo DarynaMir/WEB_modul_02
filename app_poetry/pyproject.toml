@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "app_poetry"
+version = "0.1.0"
+description = ""
+authors = ["Daryna Mirzaholi <dmirzagholi@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+black = {extras = ['d'], version = "^23.12.1"}
+
+[tool.black]
+line_length = 88
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
